@@ -1,0 +1,32 @@
+{
+    "DTU": {
+        "admission_procedure": "Candidates must visit the official for admission details. DTU admission to its most popular course BTech programme, is based on JEE Main scores and the entire process of counselling is conducted by JAC Delhi.",
+        "application_deadline": "25th June 2024",
+        "required_documents": "10th marksheet, quota certificate, character certificate, migratation certificate, 12th marksheet, medical certificate",
+        "application_fee": "$50"
+    },
+    "NSUT": {
+        "admission_procedure": "Candidates must visit the official for admission details. NSUT admission to its most popular course BTech programme, is based on JEE Main scores and the entire process of counselling is conducted by JAC Delhi.",
+        "application_deadline": "25th June 2024",
+        "required_documents": "10th marksheet, quota certificate, character certificate, migratation certificate, 12th marksheet, medical certificate",
+        "application_fee": "$60"
+    },
+    "IIITD": {
+        "admission_procedure": "Candidates must visit the official for admission details. IIITD admission to its most popular course BTech programme, is based on JEE Main scores and the entire process of counselling is conducted by JAC Delhi.",
+        "application_deadline": "25th June 2024",
+        "required_documents": "10th marksheet, quota certificate, character certificate, migratation certificate, 12th marksheet, medical certificate along with the filled hostel allotment form",
+        "application_fee": "$55"
+    },
+    "IGDTU": {
+        "admission_procedure": "Candidates must visit the official for admission details. IGDTU admission to its most popular course BTech programme, is based on JEE Main scores and the entire process of counselling is conducted by JAC Delhi.",
+        "application_deadline": "25th June 2024",
+        "required_documents": "10th marksheet, quota certificate, character certificate, migratation certificate, 12th marksheet, medical certificate",
+        "application_fee": "Free of Cost"
+    },
+    "MAIT": {
+        "admission_procedure": "Admission to the B.Tech program candidates has to clear the JEE MAINS entrance exam conducted by NTA. Admission to MAIT Delhi is based on JEE Main Score Card.",
+        "application_deadline": "25th June 2024",
+        "required_documents": "10th marksheet, quota certificate, character certificate, migratation certificate, 12th marksheet, medical certificate",
+        "application_fee": "$65"
+    }
+}
